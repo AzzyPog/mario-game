@@ -4,6 +4,7 @@ const scoreBoard = document.querySelector(".score-board");
 const cloud = document.querySelector(".clouds");
 const lose = document.querySelector(".lose-output");
 const finalScore = document.getElementById("final-score");
+const button = document.getElementById("btn");
 let score = 0;
 
 
@@ -58,4 +59,8 @@ document.addEventListener("keydown", (event) => {
     if(event.code == "Space" || event.code == "KeyW") {
         jump();
     }
+})
+
+button.addEventListener("click", () => {
+    location.reload();
 })
