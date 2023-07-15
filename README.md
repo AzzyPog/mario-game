@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="site_gif" src=".github/site view.gif" width="100%">
+  <img alt="site_gif" src="./github/mario_playing.gif" width="800">
 </p>
 
 ## 🚀 Tecnologias
