@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Meu projeto tem o objetivo de centralizar e facilitar tanto o acesso ao meus projetos em desenvolvimento quanto aos meios de contato que possuo.
 
-- [Visite o projeto online](https://portfolio-azzypog.vercel.app)
+- [Visite o projeto online](https://mario-game-rho.vercel.app)
 
 
 ## Licença
